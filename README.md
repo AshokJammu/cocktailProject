@@ -5,9 +5,9 @@ This project was created  with  React[Create React App](https://github.com/faceb
 ## Overview of The Project:
 Cocktail App allows user to serach their favourite drinks Alchoholic and non Alcoholic.
 
-<!-- <a href =  "https://mocktail-wb.netlify.app/">
+<a href =  "https://cocktailapi.netlify.app/">
   <button style = "background:red,padding:5px">Demo Link</button>
-</a> -->
+</a>
 
 <!-- <p> <img src  = "/Masai/module-no-bravo/public/home.png"> </p> -->
 <p>To get started here are some features which a user can get in the app</p>

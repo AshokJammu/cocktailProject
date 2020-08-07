@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBAAkB,CAClB,qBACF,CAEA,IAGE,YACF","file":"main.352e9560.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n  background-color: aqua;\n}\n\n.ht {\n  /* width: 100%;\n  height: auto; */\n  padding: 15px;\n}\n"]}
