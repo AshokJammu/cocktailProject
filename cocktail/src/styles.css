@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aqua;
+}
+
+.ht {
+  /* width: 100%;
+  height: auto; */
+  padding: 15px;
+}
