@@ -13,8 +13,6 @@ Cocktail App allows user to serach their favourite drinks Alchoholic and non Alc
 <p>To get started here are some features which a user can get in the app</p>
 <p> <img src  = "https://github.com/AshokJammu/cocktailProject/blob/master/cocktail/public/home.png"> </p> 
 
-
-
 1.Option to search for drinks based on different categories.
 <p> <img src  = "https://github.com/AshokJammu/cocktailProject/blob/master/cocktail/public/category.png"> </p>
 
