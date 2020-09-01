@@ -9,22 +9,25 @@ Cocktail App allows user to serach their favourite drinks Alchoholic and non Alc
   <button style = "background:red,padding:5px">Demo Link</button>
 </a>
 
-<!-- <p> <img src  = "/Masai/module-no-bravo/public/home.png"> </p> -->
-<p>To get started here are some features which a user can get in the app</p>
 
+<p>To get started here are some features which a user can get in the app</p>
+<p> <img src  = "https://github.com/AshokJammu/cocktailProject/blob/master/cocktail/public/home.png"> </p> 
 
 1.Option to search for drinks based on different categories.
-<!-- <p> <img src  = "/Masai/module-no-bravo/public/category.png"> </p> -->
+<p> <img src  = "https://github.com/AshokJammu/cocktailProject/blob/master/cocktail/public/category.png"> </p>
 
-2.Option to directly serach your favourite drink
-<!-- <p> <img src  = "/Masai/module-no-bravo/public/search.png"> </p> -->
+2.Option to directly go to favourite drink
+<p> <img src  = "https://github.com/AshokJammu/cocktailProject/blob/master/cocktail/public/popular.png"> </p>
+
+<P>Implementig pagenation</p>
+<p> <img src  = "https://github.com/AshokJammu/cocktailProject/blob/master/cocktail/public/pagination.png"> </p>
 
 
 ## Getting Started
 
 Follow this simple steps to start using this application
 
-1.   Clone the  repo to your home directory and browse to the folder module-no-bravo.
+1.   Clone the  repo to your home directory and browse to the folder cocktailProject.
 
 2.   npm install
 
