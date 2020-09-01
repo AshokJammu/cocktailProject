@@ -9,11 +9,11 @@ export default function App() {
     // <div style={{ backgroundColor: "red" }}>
     <div className="App">
       <div>
-        <h1>COCKTAIL CELEBRATIONS</h1>
-        <p>happy celebrations with tasty cocktails</p>
+        <h1 style={{background:"black",color:"green"}}>COCKTAIL CELEBRATIONS</h1>
+        {/* <p style={{background:"black",color:"green"}}>Happy celebrations with tasty cocktails</p> */}
+        <Cocktail />
       </div>
 
-      <Cocktail />
     </div>
     // </div>
   );
